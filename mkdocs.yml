@@ -1,8 +1,0 @@
-site_name: Paul Ritsche
-site_author: Paul Ritsche
-
-theme:
-  name: "material"
-
-nav:
-  - Welcome: index.md
