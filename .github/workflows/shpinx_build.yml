@@ -3,7 +3,8 @@ name: Build and Deploy Sphinx Docs
 on:
   push:
     branches:
-      - master  # Adjust this if your default branch is named differently, e.g., "main"
+      - main
+      - master
 
 jobs:
   build-deploy:
