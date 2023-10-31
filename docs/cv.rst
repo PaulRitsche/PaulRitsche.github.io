@@ -5,7 +5,7 @@ Curriculum Vitae
 ---------------------------------------------------------------------------
 
 SCIENTIFIC PUBLICATIONS:
-------------------------
+========================
 
 - Ritsche, P., Seynnes, O. & Cronin, N. DL_Track_US: a python package to analyse muscle ultrasonography images. Journal of Open Source Software. 8(85), 5206, (2023). https://doi.org/10.21105/joss.05206
 
@@ -22,7 +22,7 @@ SCIENTIFIC PUBLICATIONS:
 ---------------------------------------------------------------------------
 
 PREVIOUS SCIENTIFIC POSITIONS:
-------------------------------
+==============================
 
 - 11/2022– Research associate at the Department of Sport, Exercise & Health, University of Basel
 
@@ -31,7 +31,7 @@ PREVIOUS SCIENTIFIC POSITIONS:
 ---------------------------------------------------------------------------
 
 PERSONAL/SCIENTIFIC EXPERIENCES:
---------------------------------
+================================
 
 - 12/2022-08/2023 Project related internship with Prof. Dr. Christoph Handschin, Department Biozentrum, University of Basel, Switzerland
 
@@ -44,7 +44,7 @@ PERSONAL/SCIENTIFIC EXPERIENCES:
 ---------------------------------------------------------------------------
 
 MEMBERSHIPS
------------
+===========
 - International Society of Biomechanics – Student Member 
 - European College of Sport Science – Student Member
 - International Society of Electromyography and Kinesiology - Student Member
@@ -52,7 +52,7 @@ MEMBERSHIPS
 ---------------------------------------------------------------------------
 
 COURSE OF EDUCATION:
---------------------
+====================
 
 - 09/2020–07/2022 Master of Science in Sport, Exercise and Health, University of Basel 
 
