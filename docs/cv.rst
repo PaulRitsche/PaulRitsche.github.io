@@ -1,3 +1,8 @@
+================
+Curriculum Vitae
+================
+
+---------------------------------------------------------------------------
 
 SCIENTIFIC PUBLICATIONS:
 ------------------------
@@ -14,14 +19,7 @@ SCIENTIFIC PUBLICATIONS:
 
 - Ritsche, P. et al. M. Biceps Femoris Long Head Architecture and Sprint Ability in Youth Soccer Players. Int. J. Sports Physiol. Perform. 1–9 (2020) doi:10.1123/ijspp.2020-0726.
 
-COURSE OF EDUCATION:
---------------------
-
-- 09/2020–07/2022 Master of Science in Sport, Exercise and Health, University of Basel 
-
-- 09/2017-07/2020 Bachelor of Science in Sport, Exercise and Health, University of Basel 
-
-- 07/2016 Abitur, Oberrhein-Gymnasium Weil am Rhein
+---------------------------------------------------------------------------
 
 PREVIOUS SCIENTIFIC POSITIONS:
 ------------------------------
@@ -29,6 +27,8 @@ PREVIOUS SCIENTIFIC POSITIONS:
 - 11/2022– Research associate at the Department of Sport, Exercise & Health, University of Basel
 
 - 12/2018–11/2022 Student assistant at the Department of Sport, Exercise & Health, University of Basel
+
+---------------------------------------------------------------------------
 
 PERSONAL/SCIENTIFIC EXPERIENCES:
 --------------------------------
@@ -41,8 +41,23 @@ PERSONAL/SCIENTIFIC EXPERIENCES:
 
 - 03/2017 – 07/2017 New Zealand, stay abroad
 
+---------------------------------------------------------------------------
+
 MEMBERSHIPS
 -----------
 - International Society of Biomechanics – Student Member 
 - European College of Sport Science – Student Member
 - International Society of Electromyography and Kinesiology - Student Member
+
+---------------------------------------------------------------------------
+
+COURSE OF EDUCATION:
+--------------------
+
+- 09/2020–07/2022 Master of Science in Sport, Exercise and Health, University of Basel 
+
+- 09/2017-07/2020 Bachelor of Science in Sport, Exercise and Health, University of Basel 
+
+- 07/2016 Abitur, Oberrhein-Gymnasium Weil am Rhein
+
+---------------------------------------------------------------------------
