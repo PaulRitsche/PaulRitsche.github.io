@@ -1,11 +1,12 @@
-================
-Curriculum Vitae
-================
+===========================
+|:scroll:| Curriculum Vitae
+===========================
 
 ---------------------------------------------------------------------------
 
-SCIENTIFIC PUBLICATIONS:
-========================
+|:page_facing_up:| Scientific Publications
+==========================================
+- Valli G, Ritsche P, Casolo A, Negro F, De Vito G. Tutorial: analysis of central and peripheral motor unit properties from decomposed High-Density surface EMG signals with openhdemg. Journal of Electromyography and Kinesiology.(102850). (2024). https://doi.org/10.1016/j.jelekin.2023.102850
 
 - Ritsche, P., Seynnes, O. & Cronin, N. DL_Track_US: a python package to analyse muscle ultrasonography images. Journal of Open Source Software. 8(85), 5206, (2023). https://doi.org/10.21105/joss.05206
 
@@ -21,21 +22,46 @@ SCIENTIFIC PUBLICATIONS:
 
 ---------------------------------------------------------------------------
 
-PREVIOUS SCIENTIFIC POSITIONS:
-==============================
+|:money_with_wings:| Scientific Grants
+======================================
 
-- 11/2022– Research associate at the Department of Sport, Exercise & Health, University of Basel
-
-- 12/2018–11/2022 Student assistant at the Department of Sport, Exercise & Health, University of Basel
+- Co-Applicant, FAG Basel, 2023, 11.000 CHF.
+    "Sequential Use of Low-Intensity Strength Training with Blood Flow Restriction Followed by High-Intensity Strength Training Compared to Pure High-Intensity Strength Training: Effects on Maximum Strength, Muscle Cross-Section, Tendon Cross-Section, Tendon Stiffness, and Muscle Activation.""
 
 ---------------------------------------------------------------------------
 
-PERSONAL/SCIENTIFIC EXPERIENCES:
-================================
+|:mortar_board:| Scientific Positions
+======================================
 
-- 12/2022-08/2023 Project related internship with Prof. Dr. Christoph Handschin, Department Biozentrum, University of Basel, Switzerland
+- 08/2023 - PhD Student at the Department of Sport, Exercise & Health, University of Basel
 
-- 05/2021–07/2021 Project related internship with Prof. Dr. Martino Franchi and Prof. Dr. Marco Narici, Department of Biomedical Sciences, University of Padova, Italy
+- 11/2022 – 08/2023 Research associate at the Department of Sport, Exercise & Health, University of Basel
+
+- 12/2018 – 11/2022 Student assistant at the Department of Sport, Exercise & Health, University of Basel
+
+---------------------------------------------------------------------------
+
+|:speaking_head:| Teaching Experiences
+======================================
+
+- Supervision of Bachelor and Master Students at Department of Sport, Exercise and Health, University of Basel
+
+- Lecturer `Technical Aspects of Biomechanics <https://vorlesungsverzeichnis.unibas.ch/de/home?id=280314>`_ at Department of Sport, Exercise and Health, University of Basel 
+
+- Lecturer `Biomechanics of Movement <https://vorlesungsverzeichnis.unibas.ch/de/home?id=280311>`_ at Department of Sport, Exercise and Health, University of Basel 
+
+- Lecturer `3D Human Movement Sciences <https://vorlesungsverzeichnis.unibas.ch/de/home?id=285613>`_ at Department of Sport, Exercise and Health, University of Basel 
+
+---------------------------------------------------------------------------
+
+|:star2:| Personal/Scientific Experiences
+===============================
+
+- 09/23 Project realted internship with Dr. Sebastian Bohn and Prof. Dr. Arampatzis, Department of Exercise and Movement Science, Humboldt University Berlin, Germany
+
+- 12/2022 - 08/2023 Project related internship with Prof. Dr. Christoph Handschin, Department Biozentrum, University of Basel, Switzerland
+
+- 05/2021 – 07/2021 Project related internship with Prof. Dr. Martino Franchi and Prof. Dr. Marco Narici, Department of Biomedical Sciences, University of Padova, Italy
 
 - 08/2020 Brain@sports summer school, Department of Exercise & Health, Faculty of Science, University of Paderborn
 
@@ -43,16 +69,23 @@ PERSONAL/SCIENTIFIC EXPERIENCES:
 
 ---------------------------------------------------------------------------
 
-MEMBERSHIPS
-===========
+|:pencil2:| Memberships
+=======================
+
+- Swiss `Reproducibility Network Basel Node <https://osf.io/kp98v/>`_ Member 
+
 - International Society of Biomechanics – Student Member 
+
 - European College of Sport Science – Student Member
+
 - International Society of Electromyography and Kinesiology - Student Member
 
 ---------------------------------------------------------------------------
 
-COURSE OF EDUCATION:
-====================
+|:map:| Course of Education
+===========================
+
+- 08/2023- Doctoral Studies in Sport Sciences, Depaetment of Sport, |Exercise and Health, University of Basel
 
 - 09/2020–07/2022 Master of Science in Sport, Exercise and Health, University of Basel 
 
